@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 文件处理工具类
  * 
- * @author ruoyi
+ * @author ever
  */
 public class FileUtils extends org.apache.commons.io.FileUtils
 {
